@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
