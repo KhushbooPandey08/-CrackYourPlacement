@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -36,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
@@ -58,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
