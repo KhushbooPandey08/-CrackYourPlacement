@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
