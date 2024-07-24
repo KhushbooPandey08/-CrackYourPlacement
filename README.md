@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -175,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
