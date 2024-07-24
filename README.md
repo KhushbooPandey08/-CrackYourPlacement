@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Sliding Window
 |  |
 | ------- |
