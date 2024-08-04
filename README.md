@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Sliding Window
 |  |
