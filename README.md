@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 ## Design
 |  |
 | ------- |
