@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Trie
 |  |
@@ -340,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
