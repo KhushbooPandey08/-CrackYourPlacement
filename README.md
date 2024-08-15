@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
