@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
