@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Graph
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
