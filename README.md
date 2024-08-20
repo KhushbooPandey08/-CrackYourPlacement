@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
