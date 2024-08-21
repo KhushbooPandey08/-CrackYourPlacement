@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
