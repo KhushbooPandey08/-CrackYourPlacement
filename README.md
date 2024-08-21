@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 ## Recursion
 |  |
 | ------- |
