@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0890-lemonade-change) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0127-word-ladder) |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -424,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
 |  |
