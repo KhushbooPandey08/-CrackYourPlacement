@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
