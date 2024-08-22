@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0068-text-justification) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Simulation
 |  |
