@@ -7,62 +7,45 @@ using namespace std;
 // } Driver Code Ends
 // User function Template for C++
 
-class Solution{
-    public:
-    string findOrder(string dict[], int N, int K) {
-        //code here
-        map<int,vector<int>>mp;
-        for(int i = 0; i < N-1; i++){
-            for(int j = 0; j < min(dict[i].size(),dict[i+1].size()); j++){
-                if(dict[i][j] != dict[i+1][j]){
-                    mp[dict[i][j]-'a'].push_back(dict[i+1][j]-'a');
+class Solution {
+  public:
+    string findOrder(string dict[], int n, int k) {
+        // code here
+           vector<int>indegree(k);
+        vector<vector<int>>adj(k,vector<int>());
+        for(int i=0;i<n-1;i++){
+            string str1=dict[i];
+            string str2=dict[i+1];
+            int len=min(str1.size(),str2.size());
+            for(int j=0;j<len;j++){
+                if(str1[j] !=str2[j]){
+                    adj[str1[j]-'a'].push_back(str2[j]-'a');
+                    indegree[str2[j]-'a']++;
                     break;
                 }
             }
         }
         queue<int>q;
-        vector<int>in(K,0);
-        // we just kept the indgree of each node in in[] vector
-        for(int i = 0; i < K; i++){
-            for(int j = 0; j < mp[i].size(); j++){
-                in[mp[i][j]]++;
-            }
+        for(int i=0;i<indegree.size();i++){
+            if(indegree[i]==0) q.push(i);
         }
-        //now we push all the element which has 0 indegree to our queue i.e. q
-        for(int i = 0; i < K; i++){
-            if(in[i] == 0){
-                q.push(i);
-            }
-        }
-        //we keep vector v such as to find the topo sort and if
-        //the size of v is eual to the number of node the this 
-        //bunch of number are in correct order
-        vector<int>v;
+        string ans="";
         while(!q.empty()){
-            auto x = q.front();
+            int node=q.front();
             q.pop();
-            v.push_back(x);
-            for(int i = 0; i < mp[x].size(); i++){
-                in[mp[x][i]]--;
-                if(in[mp[x][i]] == 0){
-                    q.push(mp[x][i]);
-                }
+            ans.push_back(char(node+'a'));
+            for(auto it:adj[node]){
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
             }
         }
-        //as per question we just need to put all elementf of topo 
-        //sort path in string and we just need to return that only
-        //so we just iterate on v and add the element in string ans
-        string ans = "";
-        for(auto i : v){
-            ans+=char(i+'a');
-        }
-        //finally we return the string ans as required by the question
         return ans;
     }
 };
 
 //{ Driver Code Starts.
 string order;
+
 bool f(string a, string b) {
     int p1 = 0;
     int p2 = 0;
@@ -72,7 +55,8 @@ bool f(string a, string b) {
         //	cout<<p1<<" "<<p2<<endl;
     }
 
-    if (p1 == p2 and a.size() != b.size()) return a.size() < b.size();
+    if (p1 == p2 and a.size() != b.size())
+        return a.size() < b.size();
 
     return p1 < p2;
 }
@@ -85,12 +69,14 @@ int main() {
         int N, K;
         cin >> N >> K;
         string dict[N];
-        for (int i = 0; i < N; i++) cin >> dict[i];
-        
+        for (int i = 0; i < N; i++)
+            cin >> dict[i];
+
         Solution obj;
         string ans = obj.findOrder(dict, N, K);
         order = "";
-        for (int i = 0; i < ans.size(); i++) order += ans[i];
+        for (int i = 0; i < ans.size(); i++)
+            order += ans[i];
 
         string temp[N];
         std::copy(dict, dict + N, temp);
@@ -98,10 +84,13 @@ int main() {
 
         bool f = true;
         for (int i = 0; i < N; i++)
-            if (dict[i] != temp[i]) f = false;
+            if (dict[i] != temp[i])
+                f = false;
 
-        if(f)cout << 1;
-        else cout << 0;
+        if (f)
+            cout << 1;
+        else
+            cout << 0;
         cout << endl;
     }
     return 0;
