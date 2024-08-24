@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0090-subsets-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0476-number-complement) |
 ## Sorting
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
