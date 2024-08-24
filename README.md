@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0403-frog-jump) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
