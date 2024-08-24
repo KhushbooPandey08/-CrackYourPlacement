@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
+| [0564-find-the-closest-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
