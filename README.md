@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
