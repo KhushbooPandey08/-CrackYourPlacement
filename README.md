@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2502-sort-the-people](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
