@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2502-sort-the-people) |
