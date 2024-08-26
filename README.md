@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
+| [0730-count-different-palindromic-subsequences](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0730-count-different-palindromic-subsequences](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
