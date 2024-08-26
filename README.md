@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0923-super-egg-drop](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0923-super-egg-drop](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0923-super-egg-drop](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
