@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+| [1325-path-with-maximum-probability](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
