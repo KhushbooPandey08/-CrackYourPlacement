@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1196-filling-bookcase-shelves](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
