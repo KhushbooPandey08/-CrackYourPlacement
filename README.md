@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
