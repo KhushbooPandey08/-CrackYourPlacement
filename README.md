@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0740-delete-and-earn](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0664-strange-printer) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0863-sum-of-distances-in-tree](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
@@ -584,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
