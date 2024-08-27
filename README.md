@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
