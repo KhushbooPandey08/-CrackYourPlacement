@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushbooPandey08/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
